@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shiny_effect.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="shiny 10000" x="0" y="0" width="335" height="349" pivotX="122.45" pivotY="40.4"/>
+	<SubTexture name="shiny 10001" x="335" y="0" width="335" height="349"/>
+	<SubTexture name="shiny 10002" x="670" y="0" width="335" height="349"/>
+	<SubTexture name="shiny 10003" x="1005" y="0" width="335" height="349"/>
+	<SubTexture name="shiny 10004" x="1340" y="0" width="335" height="349"/>
+	<SubTexture name="shiny 10005" x="1675" y="0" width="335" height="349"/>
+	<SubTexture name="shiny 10006" x="0" y="349" width="335" height="349"/>
+	<SubTexture name="shiny 10007" x="335" y="349" width="335" height="349"/>
+	<SubTexture name="shiny 10008" x="670" y="349" width="335" height="349"/>
+	<SubTexture name="shiny 10009" x="1005" y="349" width="335" height="349"/>
+	<SubTexture name="shiny 10010" x="1340" y="349" width="335" height="349"/>
+	<SubTexture name="shiny 10011" x="1675" y="349" width="335" height="349"/>
+	<SubTexture name="shiny 10012" x="1675" y="349" width="335" height="349"/>
+	<SubTexture name="shiny 10013" x="1675" y="349" width="335" height="349"/>
+	<SubTexture name="shiny 10014" x="1675" y="349" width="335" height="349"/>
+	<SubTexture name="shiny 10015" x="1675" y="349" width="335" height="349"/>
+	<SubTexture name="shiny 10016" x="1675" y="349" width="335" height="349"/>
+	<SubTexture name="shiny 10017" x="1675" y="349" width="335" height="349"/>
+	<SubTexture name="shiny 10018" x="1675" y="349" width="335" height="349"/>
+	<SubTexture name="shiny 10019" x="1675" y="349" width="335" height="349"/>
+	<SubTexture name="shiny 10020" x="1675" y="349" width="335" height="349"/>
+	<SubTexture name="shiny 10021" x="1675" y="349" width="335" height="349"/>
+	<SubTexture name="shiny 10022" x="1675" y="349" width="335" height="349"/>
+	<SubTexture name="shiny 10023" x="1675" y="349" width="335" height="349"/>
+</TextureAtlas>
