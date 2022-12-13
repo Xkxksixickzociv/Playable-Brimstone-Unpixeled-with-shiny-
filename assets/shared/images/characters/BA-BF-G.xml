@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BA-BF.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down 10000" x="1278" y="444" width="444" height="439" pivotX="-20.25" pivotY="8.8"/>
+	<SubTexture name="down 10001" x="1278" y="444" width="444" height="439"/>
+	<SubTexture name="down 10002" x="1722" y="444" width="444" height="439"/>
+	<SubTexture name="down 10003" x="1722" y="444" width="444" height="439"/>
+	<SubTexture name="down 10004" x="2166" y="444" width="444" height="439"/>
+	<SubTexture name="down 10005" x="2166" y="444" width="444" height="439"/>
+	<SubTexture name="down 10006" x="2610" y="444" width="444" height="439"/>
+	<SubTexture name="down 10007" x="2610" y="444" width="444" height="439"/>
+	<SubTexture name="down 10008" x="2610" y="444" width="444" height="439"/>
+	<SubTexture name="down 10009" x="2610" y="444" width="444" height="439"/>
+	<SubTexture name="idle 10000" x="1726" y="883" width="444" height="436" pivotX="0" pivotY="0"/>
+	<SubTexture name="idle 10001" x="1726" y="883" width="444" height="436"/>
+	<SubTexture name="idle 10002" x="2170" y="883" width="444" height="436"/>
+	<SubTexture name="idle 10003" x="2170" y="883" width="444" height="436"/>
+	<SubTexture name="idle 10004" x="0" y="910" width="444" height="436"/>
+	<SubTexture name="idle 10005" x="0" y="910" width="444" height="436"/>
+	<SubTexture name="idle 10006" x="444" y="910" width="444" height="436"/>
+	<SubTexture name="idle 10007" x="444" y="910" width="444" height="436"/>
+	<SubTexture name="idle 10008" x="3502" y="919" width="444" height="436"/>
+	<SubTexture name="idle 10009" x="3502" y="919" width="444" height="436"/>
+	<SubTexture name="left 10000" x="1611" y="0" width="483" height="444" pivotX="79.9" pivotY="23.95"/>
+	<SubTexture name="left 10001" x="1611" y="0" width="483" height="444"/>
+	<SubTexture name="left 10002" x="2094" y="0" width="483" height="444"/>
+	<SubTexture name="left 10003" x="2094" y="0" width="483" height="444"/>
+	<SubTexture name="left 10004" x="2577" y="0" width="483" height="444"/>
+	<SubTexture name="left 10005" x="2577" y="0" width="483" height="444"/>
+	<SubTexture name="left 10006" x="3060" y="0" width="483" height="444"/>
+	<SubTexture name="left 10007" x="3060" y="0" width="483" height="444"/>
+	<SubTexture name="left 10008" x="3060" y="0" width="483" height="444"/>
+	<SubTexture name="left 10009" x="3060" y="0" width="483" height="444"/>
+	<SubTexture name="pokeball 10000" x="0" y="0" width="537" height="426" pivotX="45.6" pivotY="2.4"/>
+	<SubTexture name="pokeball 10001" x="0" y="0" width="537" height="426"/>
+	<SubTexture name="pokeball 10002" x="537" y="0" width="537" height="426"/>
+	<SubTexture name="pokeball 10003" x="537" y="0" width="537" height="426"/>
+	<SubTexture name="pokeball 10004" x="1074" y="0" width="537" height="426"/>
+	<SubTexture name="pokeball 10005" x="1074" y="0" width="537" height="426"/>
+	<SubTexture name="pokeball 10006" x="1074" y="0" width="537" height="426"/>
+	<SubTexture name="pokeball 10007" x="1074" y="0" width="537" height="426"/>
+	<SubTexture name="pokeball 10008" x="1074" y="0" width="537" height="426"/>
+	<SubTexture name="pokeball 10009" x="1074" y="0" width="537" height="426"/>
+	<SubTexture name="pokeball 10010" x="1074" y="0" width="537" height="426"/>
+	<SubTexture name="pokeball 10011" x="1074" y="0" width="537" height="426"/>
+	<SubTexture name="pokeball 10012" x="1074" y="0" width="537" height="426"/>
+	<SubTexture name="pokeball 10013" x="1074" y="0" width="537" height="426"/>
+	<SubTexture name="pokeball 10014" x="1074" y="0" width="537" height="426"/>
+	<SubTexture name="pokeball 10015" x="1074" y="0" width="537" height="426"/>
+	<SubTexture name="pokeball 10016" x="1074" y="0" width="537" height="426"/>
+	<SubTexture name="pokeball 10017" x="1074" y="0" width="537" height="426"/>
+	<SubTexture name="pokeball 10018" x="1074" y="0" width="537" height="426"/>
+	<SubTexture name="pokeball 10019" x="1074" y="0" width="537" height="426"/>
+	<SubTexture name="pokeball 10020" x="1074" y="0" width="537" height="426"/>
+	<SubTexture name="pokeball 10021" x="1074" y="0" width="537" height="426"/>
+	<SubTexture name="pokeball 10022" x="1074" y="0" width="537" height="426"/>
+	<SubTexture name="pokeball 10023" x="1074" y="0" width="537" height="426"/>
+	<SubTexture name="right 10000" x="3054" y="444" width="448" height="435" pivotX="-42.25" pivotY="3.65"/>
+	<SubTexture name="right 10001" x="3054" y="444" width="448" height="435"/>
+	<SubTexture name="right 10002" x="3502" y="484" width="448" height="435"/>
+	<SubTexture name="right 10003" x="3502" y="484" width="448" height="435"/>
+	<SubTexture name="right 10004" x="3054" y="879" width="448" height="435"/>
+	<SubTexture name="right 10005" x="3054" y="879" width="448" height="435"/>
+	<SubTexture name="right 10006" x="1278" y="883" width="448" height="435"/>
+	<SubTexture name="right 10007" x="1278" y="883" width="448" height="435"/>
+	<SubTexture name="right 10008" x="1278" y="883" width="448" height="435"/>
+	<SubTexture name="right 10009" x="1278" y="883" width="448" height="435"/>
+	<SubTexture name="up 10000" x="3543" y="0" width="426" height="484" pivotX="12.25" pivotY="56.95"/>
+	<SubTexture name="up 10001" x="3543" y="0" width="426" height="484"/>
+	<SubTexture name="up 10002" x="0" y="426" width="426" height="484"/>
+	<SubTexture name="up 10003" x="0" y="426" width="426" height="484"/>
+	<SubTexture name="up 10004" x="426" y="426" width="426" height="484"/>
+	<SubTexture name="up 10005" x="426" y="426" width="426" height="484"/>
+	<SubTexture name="up 10006" x="852" y="426" width="426" height="484"/>
+	<SubTexture name="up 10007" x="852" y="426" width="426" height="484"/>
+	<SubTexture name="up 10008" x="852" y="426" width="426" height="484"/>
+	<SubTexture name="up 10009" x="852" y="426" width="426" height="484"/>
+</TextureAtlas>

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="missing poke.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="intro 10000" x="0" y="3756" width="379" height="245" pivotX="264.2" pivotY="4.6"/>
+	<SubTexture name="intro 10001" x="0" y="3756" width="379" height="245"/>
+	<SubTexture name="intro 10002" x="379" y="3756" width="379" height="245"/>
+	<SubTexture name="intro 10003" x="379" y="3756" width="379" height="245"/>
+	<SubTexture name="intro 10004" x="758" y="3756" width="379" height="245"/>
+	<SubTexture name="intro 10005" x="758" y="3756" width="379" height="245"/>
+	<SubTexture name="intro 10006" x="1137" y="3756" width="379" height="245"/>
+	<SubTexture name="intro 10007" x="1137" y="3756" width="379" height="245"/>
+	<SubTexture name="intro 10008" x="1516" y="3756" width="379" height="245"/>
+	<SubTexture name="intro 10009" x="1516" y="3756" width="379" height="245"/>
+	<SubTexture name="out 10000" x="0" y="0" width="1094" height="939" pivotX="433.65" pivotY="283.65"/>
+	<SubTexture name="out 10001" x="0" y="0" width="1094" height="939"/>
+	<SubTexture name="out 10002" x="0" y="939" width="1094" height="939"/>
+	<SubTexture name="out 10003" x="0" y="939" width="1094" height="939"/>
+	<SubTexture name="out 10004" x="0" y="1878" width="1094" height="939"/>
+	<SubTexture name="out 10005" x="0" y="1878" width="1094" height="939"/>
+	<SubTexture name="out 10006" x="0" y="2817" width="1094" height="939"/>
+	<SubTexture name="out 10007" x="0" y="2817" width="1094" height="939"/>
+	<SubTexture name="out 10008" x="0" y="2817" width="1094" height="939"/>
+	<SubTexture name="out 10009" x="0" y="2817" width="1094" height="939"/>
+	<SubTexture name="out 10010" x="1094" y="0" width="1094" height="939"/>
+	<SubTexture name="out 10011" x="1094" y="0" width="1094" height="939"/>
+	<SubTexture name="out 10012" x="1094" y="939" width="1094" height="939"/>
+	<SubTexture name="out 10013" x="1094" y="939" width="1094" height="939"/>
+	<SubTexture name="out 10014" x="1094" y="1878" width="1094" height="939"/>
+	<SubTexture name="out 10015" x="1094" y="1878" width="1094" height="939"/>
+	<SubTexture name="out 10016" x="1094" y="2817" width="1094" height="939"/>
+	<SubTexture name="out 10017" x="1094" y="2817" width="1094" height="939"/>
+	<SubTexture name="out 10018" x="2188" y="0" width="1094" height="939"/>
+	<SubTexture name="out 10019" x="2188" y="0" width="1094" height="939"/>
+	<SubTexture name="out 10020" x="2188" y="939" width="1094" height="939"/>
+	<SubTexture name="out 10021" x="2188" y="939" width="1094" height="939"/>
+	<SubTexture name="out 10022" x="2188" y="1878" width="1094" height="939"/>
+	<SubTexture name="out 10023" x="2188" y="2817" width="1094" height="939"/>
+	<SubTexture name="out 10024" x="2188" y="1878" width="1094" height="939"/>
+	<SubTexture name="out 10025" x="2188" y="1878" width="1094" height="939"/>
+	<SubTexture name="out 10026" x="2188" y="1878" width="1094" height="939"/>
+	<SubTexture name="out 10027" x="2188" y="1878" width="1094" height="939"/>
+	<SubTexture name="out 10028" x="2188" y="1878" width="1094" height="939"/>
+	<SubTexture name="out 10029" x="2188" y="1878" width="1094" height="939"/>
+	<SubTexture name="wait 10000" x="1895" y="3756" width="152" height="112" pivotX="25.35" pivotY="18.75"/>
+	<SubTexture name="wait 10001" x="1895" y="3756" width="152" height="112"/>
+	<SubTexture name="wait 10002" x="2047" y="3756" width="152" height="112"/>
+	<SubTexture name="wait 10003" x="2047" y="3756" width="152" height="112"/>
+	<SubTexture name="wait 10004" x="2199" y="3756" width="152" height="112"/>
+	<SubTexture name="wait 10005" x="2199" y="3756" width="152" height="112"/>
+	<SubTexture name="wait 10006" x="2351" y="3756" width="152" height="112"/>
+	<SubTexture name="wait 10007" x="2351" y="3756" width="152" height="112"/>
+	<SubTexture name="wait 10008" x="2503" y="3756" width="152" height="112"/>
+	<SubTexture name="wait 10009" x="2503" y="3756" width="152" height="112"/>
+	<SubTexture name="wait 10010" x="2503" y="3756" width="152" height="112"/>
+	<SubTexture name="wait 10011" x="2503" y="3756" width="152" height="112"/>
+	<SubTexture name="wait 10012" x="2503" y="3756" width="152" height="112"/>
+	<SubTexture name="wait 10013" x="2503" y="3756" width="152" height="112"/>
+	<SubTexture name="wait 10014" x="2503" y="3756" width="152" height="112"/>
+	<SubTexture name="wait 10015" x="2503" y="3756" width="152" height="112"/>
+	<SubTexture name="wait 10016" x="2503" y="3756" width="152" height="112"/>
+	<SubTexture name="wait 10017" x="2503" y="3756" width="152" height="112"/>
+	<SubTexture name="wait 10018" x="2503" y="3756" width="152" height="112"/>
+	<SubTexture name="wait 10019" x="2503" y="3756" width="152" height="112"/>
+	<SubTexture name="wait 10020" x="2503" y="3756" width="152" height="112"/>
+	<SubTexture name="wait 10021" x="2503" y="3756" width="152" height="112"/>
+	<SubTexture name="wait 10022" x="2503" y="3756" width="152" height="112"/>
+	<SubTexture name="wait 10023" x="2503" y="3756" width="152" height="112"/>
+</TextureAtlas>
